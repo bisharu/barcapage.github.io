@@ -142,12 +142,12 @@ body
 {
     padding: 10px;
     margin: 10px 10px 0px 10px;
-    font-size: 33px;
+    font-size: 25px;
 }
 
 .header-part p
 {
-    margin: 0px 5px 5px 0px;
+    margin: 0px 5px 5px 5px;
     float: left;
 }
 
@@ -163,7 +163,7 @@ nav a
     text-decoration: none;
     padding: 5px;
     color: yellow;
-    font-size: 14px;
+    font-size: 9px;
 }
 
 nav a:hover
@@ -177,7 +177,7 @@ nav a:hover
     clear: both;
     margin: 10px 5px 10px 5px;
     padding: 10px;
-    max-width: 570px;
+    max-width: 580px;
     float: left;
     border: 1px solid blue;
     border-radius: 20px;
@@ -189,7 +189,7 @@ nav a:hover
 {
     height: 230px;
     width: 390px;
-    margin: 10px 0px 10px 3px;
+    margin: 10px 5px 10px 3px;
     border-radius: 20px;
 }
 
@@ -198,7 +198,7 @@ nav a:hover
     clear: both;
     height: 230px;
     width: 390px;
-    margin: 10px 0px 10px 3px;
+    margin: 10px 5px 10px 3px;
     border-radius: 20px;
 }
 
@@ -208,8 +208,8 @@ nav a:hover
     margin: 10px 5px 15px 5px;
     padding: 5px 10px 5px 10px;
     border: 1px solid blue;
-    width: auto;
-    height: 300px;
+    max-width: 580px;
+    height: 380px;
     border-radius: 20px;
     background-color: rgb(28, 28, 229);
     color: yellow;
