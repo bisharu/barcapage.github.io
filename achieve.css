@@ -21,6 +21,9 @@ nav
     right: 0;
     font-size: 17px;
     margin: 40px 20px 40px 40px;
+    border: 1px solid blue;
+    background-color: rgb(28, 28, 229);
+    border-radius: 20px;
 }
 
 nav a
