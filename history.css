@@ -117,7 +117,7 @@ nav
     top: 0;
     left: 0;
     position: absolute;
-    margin: 40px 0px 10px 15px;
+    margin: 25px 5px 10px 5px;
     display: inline-block;
 }
 
@@ -126,8 +126,8 @@ nav a
     text-decoration: none;
     padding: 2px;
     color: yellow;
-    font-size: 14px;
-    margin: 7px;
+    font-size: 12px;
+    margin: 4px;
 }
 
 nav a:hover
