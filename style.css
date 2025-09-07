@@ -131,6 +131,13 @@ body
   background-color: rgb(9, 9, 159);
 }    
 
+header
+{
+    background-color: rgb(28, 28, 229); 
+    height: 95px;
+    border-radius: 15px;
+}
+  
 .header-part
 {
    height: min-content;
@@ -230,6 +237,7 @@ footer
     color: white;
 }
 }
+
 
 
 
