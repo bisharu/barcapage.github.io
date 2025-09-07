@@ -8,6 +8,13 @@ body {
   background-color: rgb(9, 9, 159);
 }
 
+header
+{
+    background-color: rgb(28, 28, 229); 
+    height: 95px;
+    border-radius: 15px;
+}
+
 .header-part
 {
    height: min-content;
@@ -41,7 +48,7 @@ nav
     position: absolute;
     top: 0;
     right: 0;
-    font-size: 17px;
+    font-size: 14px;
     margin: 40px;
     border: 1px solid blue;
     background-color: rgb(28, 28, 229);
@@ -52,8 +59,9 @@ nav
 nav a
 {
     text-decoration: none;
-    padding: 5px;
-    color: yellow;
+    padding: 10px;
+    font-weight: 600;
+    color: orange;
 }
 
 nav a:hover
@@ -77,9 +85,9 @@ nav a:hover
 
 .msn
 {
-    height: 305px;
+    height: 300px;
     width: 570px;
-    margin-top: 43px;
+    margin-top: 23px;
     border-radius: 20px;
 }
 
@@ -226,4 +234,5 @@ footer
     color: white;
 }
 }
+
 
