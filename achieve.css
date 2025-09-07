@@ -6,12 +6,20 @@ body {
   background-color: rgb(9, 9, 159);
 }
 
+header
+{
+    background-color: rgb(28, 28, 229); 
+    height: 95px;
+    border-radius: 15px;
+}
+
 h1
 {
     font-size: 50px;
     text-align: left;
     color: orange;
-    margin: 30px auto 40px 40px;
+    margin: 15px 15px 15px 10px;
+    padding: 10px;
 }
 
 nav
@@ -19,18 +27,16 @@ nav
     position: absolute;
     top: 0;
     right: 0;
-    font-size: 17px;
+    font-size: 14px;
     margin: 40px 20px 40px 40px;
-    border: 1px solid blue;
-    background-color: rgb(28, 28, 229);
-    border-radius: 20px;
 }
 
 nav a
 {
     text-decoration: none;
-    padding: 5px;
-    color: yellow;
+    padding: 10px;
+    color: orange;
+    font-weight: 600;
 }
 
 nav a:hover
@@ -44,8 +50,6 @@ figure
     text-align: center;
     padding: 20px;
     border-radius: 20px;
-    border: 1px solid blue;
-    background-color: rgb(28, 28, 229);
 }
 
 figure img
@@ -121,5 +125,6 @@ footer
     text-align: center;
     color: white;
 }
+
 
 }
