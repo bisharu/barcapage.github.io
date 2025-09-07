@@ -79,7 +79,7 @@ h1
     font-size: 40px;
     text-align: left;
     color: orange;
-    margin: 85px 0px 20px 20px;
+    margin: 85px 0px 20px 15px;
 }
 
 nav
@@ -87,17 +87,21 @@ nav
     top: 0;
     left: 0;
     position: absolute;
-    margin: 40px 0px 10px 15px;
-    display: inline-block;
+    margin: 25px 10px 10px 12px;
+    background-color: blue;
+    height: 25px;
+    padding-top: 10px;
+    border-radius: 10px;
+    max-width: fit-content;
 }
 
 nav a
 {
     text-decoration: none;
-    padding: 2px;
+    padding: 5px;
     color: yellow;
-    font-size: 9px;
-    margin: 7px 5px 7px 4px;
+    font-size: 10px;
+    margin: 4px;
 }
 
 nav a:hover
@@ -114,8 +118,8 @@ figure
 img
 {
     height: 150px;
-    width: 320px;
-    margin: 0px 0px 10px 3px;
+    width: 315px;
+    margin-bottom: 10px;
     border-radius: 5px;
 }
 
@@ -128,3 +132,4 @@ footer
 
 
 }
+
