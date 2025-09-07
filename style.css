@@ -69,7 +69,7 @@ nav a:hover
 .para-part
 {
     clear: both;
-    margin: 20px 20px 20px 5px;
+    margin: 20px;
     padding: 10px;
     max-width: 570px;
     float: left;
@@ -77,13 +77,12 @@ nav a:hover
     border-radius: 20px;
     background-color: rgb(28, 28, 229);
     color: yellow;
-    font-size: 16px;
 }
 
 .msn
 {
     height: 300px;
-    width: 580px;
+    width: 570px;
     margin-top: 23px;
     border-radius: 20px;
 }
@@ -91,8 +90,8 @@ nav a:hover
 .amsn
 {
     clear: both;
-    margin: 10px 5px 10px 5px;
-    height: 300px;
+    margin: 10px 5px 10px 20px;
+    height: 290px;
     width: 520px;
     float: left;
     border-radius: 20px;
@@ -104,8 +103,8 @@ nav a:hover
     margin: 10px;
     padding: 5px 10px 5px 10px;
     border: 1px solid blue;
-    width: 630px;
-    height: 290px;
+    width: auto;
+    height: 280px;
     border-radius: 20px;
     background-color: rgb(28, 28, 229);
     color: yellow;
@@ -238,4 +237,3 @@ footer
     color: white;
 }
 }
-
