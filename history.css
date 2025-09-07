@@ -91,12 +91,19 @@ body
   background-color: rgb(9, 9, 159);
 }
 
+header
+{
+    height: 95px;
+    border-radius: 15px;
+    background-color: rgb(9, 9, 159);;
+}
+
 h1
 {
     font-size: 50px;
     text-align: left;
     color: orange;
-    margin-top: 100px;
+    margin-top: 90px;
 }
 
 .history-part
@@ -128,14 +135,17 @@ nav
     top: 0;
     left: 0;
     position: absolute;
-    margin: 25px 5px 10px 12px;
-    display: inline-block;
+    margin: 25px 10px 10px 12px;
+    background-color: blue;
+    height: 25px;
+    padding-top: 10px;
+    border-radius: 10px;
 }
 
 nav a
 {
     text-decoration: none;
-    padding: 2px;
+    padding: 10px;
     color: yellow;
     font-size: 12px;
     margin: 4px;
