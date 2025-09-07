@@ -87,17 +87,21 @@ nav
     top: 0;
     left: 0;
     position: absolute;
-    margin: 20px 10px 10px 20px;
-    display: inline-block;
+    margin: 25px 10px 10px 12px;
+    background-color: blue;
+    height: 25px;
+    padding-top: 10px;
+    border-radius: 10px;
+    max-width: fit-content;
 }
 
 nav a
 {
     text-decoration: none;
-    padding: 2px;
+    padding: 5px;
     color: yellow;
-    font-size: 9px;
-    margin: 7px 5px 7px 0px;
+    font-size: 10px;
+    margin: 4px;
 }
 
 nav a:hover
@@ -125,7 +129,7 @@ table
 
 .table-two
 {
-    margin: 10px 0px 10px 10px;
+    margin: 10px 0px 10px 20px;
 }
 
 table th, td
@@ -144,3 +148,4 @@ footer
 }    
 
 }
+
