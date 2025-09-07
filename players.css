@@ -72,6 +72,13 @@ body
   background-color: rgb(9, 9, 159);
 }
 
+header
+{
+    background-color: rgb(9, 9, 159);
+    height: 60px;
+    border-radius: 15px;
+}
+
 h1
 {
     font-size: 30px;
@@ -85,17 +92,18 @@ nav
     top: 0;
     left: 0;
     position: absolute;
-    margin: 25px 0px 10px 23px;
-    display: inline-block;
+    margin: 25px 0px 10px 20px;
+    border-radius: 10px;
+    max-width: fit-content;
 }
 
 nav a
 {
     text-decoration: none;
     padding: 2px;
-    color: yellow;
-    font-size: 12px;
-    margin: 7px 5px 7px 4px;
+    color: orange;
+    font-size: 9px;
+    margin: 7px 5px 7px 4px;;
 }
 
 nav a:hover
@@ -123,6 +131,5 @@ footer
     text-align: center;
     color: white;
 }
-
-
 }
+
