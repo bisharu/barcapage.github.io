@@ -134,7 +134,7 @@ body
 header
 {
     background-color: rgb(28, 28, 229); 
-    height: 95px;
+    height: 125px;
     border-radius: 15px;
 }
   
@@ -237,7 +237,3 @@ footer
     color: white;
 }
 }
-
-
-
-
