@@ -140,6 +140,7 @@ nav
     height: 25px;
     padding-top: 10px;
     border-radius: 10px;
+    max-width: fit-content;
 }
 
 nav a
